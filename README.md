@@ -1,2 +1,2 @@
-# Lifehacks
-Not much to say
+# In a while i'll be giving out a full repo for blackeye for those who know about it.......
+     /with great power comes great responsibilities
