@@ -1,2 +1,2 @@
-# In a while i'll be giving out a full repo for blackeye for those who know about it.......
-     /with great power comes great responsibilities
+#install blackeye from this repo by cloning  via your terminal
+     https://github.com/ganelmk-3/git-clone-https-github.com-thelinuxchoice-blackeye.git
